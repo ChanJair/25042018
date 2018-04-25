@@ -1,0 +1,11 @@
+.row img{
+    height: 100%;
+    justify-content: end;
+}
+body{
+    font-size: 1em;
+    padding: auto 0;
+}
+.a{
+    font-size: 2em;
+}
